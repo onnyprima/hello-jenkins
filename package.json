@@ -1,0 +1,29 @@
+{
+  "name": "hello-jenkins",
+  "version": "1.0.0",
+  "description": "hello jenkins test app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "3.12.0"
+  },
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onnyprima/hello-jenkins.git"
+  },
+  "keywords": [
+    "hello-jenkins"
+  ],
+  "author": "onny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onnyprima/hello-jenkins/issues"
+  },
+  "homepage": "https://github.com/onnyprima/hello-jenkins#readme"
+}
